@@ -1,2 +1,5 @@
-spd = 4.8;
+/// @description Variaveis do jogador
+
+//Variaveis de velocidade do player
+spd = 8;
 hspd = 0;
