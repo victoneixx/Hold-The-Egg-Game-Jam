@@ -7,3 +7,5 @@ global.broken_eggs++;
 instance_destroy();
 //Tocando o efeito sonoro do ovo quebrando
 audio_play_sound(snd_broken_egg, 0, 0);
+//Quando o ovo colidir com o chão, criar o objeto erro
+instance_create_layer(x, y, layer, obj_erro);

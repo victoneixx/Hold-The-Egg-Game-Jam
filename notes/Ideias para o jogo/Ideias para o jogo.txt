@@ -1,0 +1,4 @@
+
+1. Fazer uma sprite para quando o player pegar ou não pegar
+o ovo. A sprite vai ser um joinha para cima verde, e a outra vai
+ser um joinha vermelho para baixo.

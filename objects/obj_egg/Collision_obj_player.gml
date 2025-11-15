@@ -10,3 +10,5 @@ global.points++;
 instance_destroy();
 //Tocando o efeito sonoro de pegando o ovo
 audio_play_sound(snd_caught_egg, 0, 0);
+//Quando o ovo colidir com o player, criar o objeto grenn
+instance_create_layer(x, y, layer, obj_grenn);
