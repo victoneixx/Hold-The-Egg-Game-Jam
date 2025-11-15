@@ -1,7 +1,7 @@
 /// @description Controles e sistemas de velocidade do jogador
 
 //Se a variavel global for verdadeira, sair desse evento
-if(global.time_over){exit}
+if(global.game_over){exit}
 
 //Controles do player
 var _right = keyboard_check(ord("D"));

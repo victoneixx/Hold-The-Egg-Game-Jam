@@ -1,4 +1,4 @@
-/// @description Inserir descrição aqui
+/// @description Variavel do level
 
 //Iniciando o alarme do jogo, junto com o randimizando
 randomize();
