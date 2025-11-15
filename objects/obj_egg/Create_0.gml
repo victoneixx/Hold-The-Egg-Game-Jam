@@ -1,7 +1,7 @@
 /// @description Inserir descrição aqui
 
 //Variavel da gravidade do ovo
-grav = 1.8;
+grave = 1.8;
 
 
 
