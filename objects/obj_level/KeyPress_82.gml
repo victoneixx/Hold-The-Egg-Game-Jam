@@ -1,4 +1,4 @@
-/// @description Precione qualquer telca
+/// @description Precione a tecla r
 
 //Se variavel global game over for true
 if(global.game_over == true){

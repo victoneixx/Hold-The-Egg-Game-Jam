@@ -1,9 +1,41 @@
 
 1. Fazer uma sprite para quando o player pegar ou não pegar
 o ovo. A sprite vai ser um joinha para cima verde, e a outra vai
-ser um joinha vermelho para baixo.
+ser um joinha vermelho para baixo
 
-2. Fazer o jogador ser controlado pelo mouse. ✓
+2. Fazer o jogador ser controlado pelo mouse ✓
 
-3. Fazer o jogo começar quando o jogador apertar qualquer tecla
-do teclado.
+3. Fazer o jogo começar quando o jogador apertar a tecla
+do teclado espaço ✓
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gente vou encerrar a live blz.
+Fiquem com deus, tacho :)
+
+
+
+
+
+
+
+
+
