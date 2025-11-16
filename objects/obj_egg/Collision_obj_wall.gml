@@ -1,11 +1,5 @@
 /// @description Colisão do ovo com o chão
-
-//Se o ovo colidir com o chão
-//Adicionar mais um de no ovos qurbrados
-global.broken_eggs++;
-//E destruir o ovo
-instance_destroy();
-//Tocando o efeito sonoro do ovo quebrando
-audio_play_sound(snd_broken_egg, 0, 0);
-//Quando o ovo colidir com o chão, criar o objeto erro
-instance_create_layer(x, y, layer, obj_erro);
+global.broken_eggs++;							//Se o objeto colidir com o chão, adicionar mais um na variavel global
+instance_destroy();								//Destruindo o objeto quando ele colidir
+audio_play_sound(snd_broken_egg, 0, 0);			//Tocando um efeito sonoro dele quebrando
+instance_create_layer(x, y, layer, obj_erro);	//Criando um objeto erro quando ele colidir
