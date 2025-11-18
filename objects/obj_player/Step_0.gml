@@ -10,8 +10,8 @@ if(global.controls){
 } else{	//Se não
 	//Controlar usando wasd ou as setas
 	//Controle do player pelo teclado
-	var _right = keyboard_check(ord("D")) || keyboard_check(vk_right);
-	var _left = keyboard_check(ord("A")) || keyboard_check(vk_left);
+	var _right = keyboard_check(ord("D"));
+	var _left = keyboard_check(ord("A"));
 
 	//Adicionando a velocidade do player
 	hspd = (_right - _left)*spd;
@@ -25,4 +25,6 @@ if(global.controls){
 	}
 	x += hspd;
 }
+
+
 
