@@ -27,7 +27,7 @@ if(millisecond <= 0){
 #endregion
 
 //Se variavel global ovos quebrado for mairo ou igual a seis
-if(global.broken_eggs >= 6){
+if(global.broken_eggs >= 1){
 	global.game_over = true;												//Variavel global game over vai ser true
 }
 
