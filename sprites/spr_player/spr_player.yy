@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "spr_assets",
+    "path": "folders/Sprites/spr_assets.yy",
   },
 }
