@@ -1,3 +1,3 @@
 /// @description Inserir descrição aqui
-vspeed = -14;
+vspeed = -10;
 gravity = .4;

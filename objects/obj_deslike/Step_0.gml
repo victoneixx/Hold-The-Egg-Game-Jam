@@ -1,3 +1,2 @@
 /// @description Inserir descrição aqui
-vspeed = -10;
-gravity = .4;
+image_alpha = lerp(image_alpha, 0, 0.1);

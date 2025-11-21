@@ -31,6 +31,7 @@
     {"id":{"name":"obj_buttons","path":"objects/obj_buttons/obj_buttons.yy",},"order":6,},
     {"id":{"name":"obj_parent_panel","path":"objects/obj_parent_panel/obj_parent_panel.yy",},"order":7,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"spr_satrt_game_txt","path":"sprites/spr_satrt_game_txt/spr_satrt_game_txt.yy",},"order":6,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
     {"id":{"name":"snd_button_click","path":"sounds/snd_button_click/snd_button_click.yy",},"order":2,},
     {"id":{"name":"snd_caught_egg","path":"sounds/snd_caught_egg/snd_caught_egg.yy",},"order":0,},
