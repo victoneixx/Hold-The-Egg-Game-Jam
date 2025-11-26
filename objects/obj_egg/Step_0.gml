@@ -1,5 +1,5 @@
 /// @description Gravidade do ovo
-
+image_angle += 18;
 //Se a variavel global for verdadeira
 if(global.game_over){
 	vspeed = 0;						//Vspeed vai ser igual azero

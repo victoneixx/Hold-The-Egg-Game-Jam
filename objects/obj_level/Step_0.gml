@@ -10,18 +10,18 @@ if(global.score > global.best_score){
 }
 
 #region Tempo do jogo
-millisecond--;											//Subitraindo menos um da variavel milisegundos
+mil--;													//Subitraindo menos um da variavel milisegundos
 
 //Se variavel global segundos for menor que zero
 //Junto com milisegundos
-if(seconds <= 0 && millisecond <= 0){
+if(sec <= 0 && mil <= 0){
 	global.game_over = true;							//Então variavel gameover vai ser true
 }
 
 //Se variavel global milisegundos for menor que zero
-if(millisecond <= 0){
-	seconds -= 1;										//Subitrair menos um da variavel segundos
-	millisecond = 60;									//E variavel milisegundo vai ser igual a 60
+if(mil <= 0){
+	sec -= 1;											//Subitrair menos um da variavel segundos
+	mil = 60;											//E variavel milisegundo vai ser igual a 60
 }
 
 #endregion

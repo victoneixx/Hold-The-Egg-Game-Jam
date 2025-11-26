@@ -7,6 +7,6 @@ if(global.game_over == true){
 	global.start_game = true;
 	global.game_over = false;
 	global.broken_eggs = 0;
-	seconds = 20;
-	millisecond = 0;
+	sec = 20;
+	mil = 0;
 }
