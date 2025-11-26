@@ -1,4 +1,4 @@
-/// @description Precione a tecla r
+/// @description Sistema para reniciar o jogo
 
 //Se variavel global game over for true
 if(global.game_over == true){
