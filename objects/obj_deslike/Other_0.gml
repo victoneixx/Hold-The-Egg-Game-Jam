@@ -1,2 +1,2 @@
-/// @description Inserir descrição aqui
+/// @description Quando sair da room
 instance_destroy();

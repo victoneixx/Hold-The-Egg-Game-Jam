@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_buttons",
+  "name": "obj_wasd",
   "spriteId": {
-    "name": "spr_buttons",
-    "path": "sprites/spr_buttons/spr_buttons.yy",
+    "name": "spr_wasd",
+    "path": "sprites/spr_wasd/spr_wasd.yy",
   },
   "solid": false,
   "visible": true,
